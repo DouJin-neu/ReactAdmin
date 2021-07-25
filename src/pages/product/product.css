@@ -1,0 +1,10 @@
+.right{
+    float: left;
+    font-size: 15px;
+}
+.left{
+    float: left;
+    margin-right: 15px;
+    font-size:20px;
+    font-weight: bold;
+}
